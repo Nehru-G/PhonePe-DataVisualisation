@@ -6,7 +6,7 @@ import csv
 
 
 # Clone the repository
-# subprocess.run(["git", "clone", "https://github.com/phonepe/pulse.git"])
+ subprocess.run(["git", "clone", "https://github.com/phonepe/pulse.git"])
 
 # Connect to the MySQL database
 db = mysql.connector.connect(
