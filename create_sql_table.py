@@ -12,7 +12,7 @@ import csv
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Root@7890sql",
+    password="your password",
     database="phonepe"
 )
 
